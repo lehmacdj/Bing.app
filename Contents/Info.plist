@@ -6,6 +6,8 @@
     <string>Bing</string>
     <key>CFBundleName</key>
     <string>Bing</string>
+    <key>CFBundleIconFile</key>
+    <string>icon.icns</string>
     <key>CFBundleIdentifier</key>
     <string>io.github.lehmacdj.edge-wrapper</string>
     <key>CFBundleVersion</key>
